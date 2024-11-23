@@ -1,2 +1,4 @@
 Parent process executing
 Child process executing
+Child process finished
+Parent process resumed and finished
