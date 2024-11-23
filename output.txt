@@ -1,4 +1,19 @@
-Parent process executing
-Child process executing
-Child process finished
-Parent process resumed and finished
+
+ The kernel version is : 
+5.15.167.4-microsoft-standard-WSL2
+
+ The CPU space : 
+cpu family	: 23
+model		: 104
+
+ Amount of cpu time since system was last booted is: 2567.65 4704.77
+
+ The configured memory is : 
+4015400
+
+ Amount of free memory: 
+1482348
+
+ Amount of used memory is : 
+2533304
+
