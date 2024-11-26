@@ -6,14 +6,14 @@
 cpu family	: 23
 model		: 104
 
- Amount of cpu time since system was last booted is: 2567.65 4704.77
+ Amount of cpu time since system was last booted is: 1290.34 2425.25
 
  The configured memory is : 
 4015400
 
  Amount of free memory: 
-1482348
+1999872
 
  Amount of used memory is : 
-2533304
+2015528
 
